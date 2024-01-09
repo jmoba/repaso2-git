@@ -2,6 +2,15 @@
 ## Apartado 1: Introducción
 #### Referencias
 Buenos días a todos/as
+
+> Esto es una nota.
+
+> [!WARNING]
+> Cuidado con los virus informáticos.
+
+
+Ejemplo de emoji: :home:
+
 Un *lenguaje de marcado* o **lenguaje de marcas** es una forma de _codificar_ un __documento__ que, junto con el `texto`, incorpora etiquetas o marcas que contienen información adicional acerca de la estructura del texto o su presentación.
 [Pulsa aquí](https://www.google.es)
 <img src="https://www.iesaguadulce.es/centro/templates/dd_toysshop_34/images/logo_ies_aguadulce.png" width="400px">
